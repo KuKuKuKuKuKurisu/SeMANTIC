@@ -1,0 +1,10 @@
+{
+  "additional_special_tokens": [
+    "[@NODST]",
+    "[@user]",
+    "[@system]",
+    "[@query]",
+    "[@state]",
+    "[@item_attrs]"
+  ]
+}
